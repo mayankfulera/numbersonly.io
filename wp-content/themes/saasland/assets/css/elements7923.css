@@ -265,11 +265,11 @@
 
 @media only screen and (max-width: 600px) {
     .software_banner_area {
-        min-height: 60vh;
+        margin-top:-70px;
         /* background-image: -moz-linear-gradient(140deg, #23026d 0%, #3d64f4 100%);
         background-image: -webkit-linear-gradient(140deg, #23026d 0%, #3d64f4 100%);
         background-image: -ms-linear-gradient(140deg, #23026d 0%, #3d64f4 100%); */
-        background: url("bggg.png");
+        background: -webkit-linear-gradient(140deg,#120e38 0%,#0354fc 100%);
         
     }
     
